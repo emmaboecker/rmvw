@@ -11,7 +11,7 @@
     "homepage": "https://github.com/StckOverflw/rmvw",
     "sources": "https://github.com/StckOverflw/rmvw"
   },
-  "license": "MIT",
+  "license": "WTFPL",
   "environment": "*",
   "entrypoints": {},
   "mixins": [
