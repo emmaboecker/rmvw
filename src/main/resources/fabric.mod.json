@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "rcrw",
+  "version": "1.0.0",
+  "name": "Remove Message Verification Warnings",
+  "description": "A very simple Mod to remove the very annoying warnings for message verification",
+  "authors": [
+    "StckOverflw"
+  ],
+  "contact": {
+    "homepage": "https://github.com/StckOverflw/rmvw",
+    "sources": "https://github.com/StckOverflw/rmvw"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "rmvw.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  }
+}
