@@ -1,6 +1,6 @@
 plugins {
     java
-    id("fabric-loom") version "1.0.11"
+    id("fabric-loom") version "1.8.10"
 }
 
 group = "net.stckoverflw"
